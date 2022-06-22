@@ -48,5 +48,5 @@ pip install -r requirements.txt
 > Despues procedemos a correr el proyecto en modo desarrollo ("Estando Ubicados en la raiz del proyecto") con el comando:
 
 ```
-uvicorn main:app --reload
+uvicorn index:app --reload
 ```
